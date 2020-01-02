@@ -9,8 +9,6 @@ CryoTracker is a cryo/freezer box contents tracker for Windows Desktop
 
 ![CryoTracker](MainForm.jpg?raw=true "CryoTracker")
 
-
-
 ## Designed to mimick actual cryo boxes
 
 * Create boxes ranging from 1 slot up to a 10x10 box (9x9 is default)
