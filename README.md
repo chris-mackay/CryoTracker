@@ -7,7 +7,7 @@ CryoTracker is a cryo/freezer box contents tracker for Windows Desktop
 
 ## Check out CryoTracker [here](https://chris-mackay.github.io/CryoTrackerWebsite/)
 
-![CryoTracker](MainForm.jpg?raw=true "CryoTracker")
+![CryoTracker](Mainform.jpg?raw=true "CryoTracker")
 
 ## Designed to mimick actual cryo boxes
 
